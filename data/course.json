@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "090f6750-d0ed-0ec1-a364-82e8297973e7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Organization Theory and the Military",
+  "course_description": "This course explores organizational concepts and research methods that explain the performance and development of military organizations in peace and war. Classic studies are reviewed. Approaches to current policy problems based on theoretical insights into military organizations and practices are also considered. The class stresses development of new theory.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.466",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
